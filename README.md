@@ -12,3 +12,12 @@ the primary source of Data used here is Federal Ministry of Health (FMOH)
 - Python
 - SQL
 
+
+![](7.jpg) 
+
+|Name | Age | Sex |
+|-----|-----|-----|
+|Sam| 20 | Male|
+
+```
+Google query
